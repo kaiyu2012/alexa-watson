@@ -12,7 +12,7 @@
   "license": "Apache-2.0",
   "repository": "github:IBM/alexa-skill-watson-conversation",
   "dependencies": {
-    "alexa-verifier": "^2.0.1",
+    "alexa-verifier": "^2.0.2",
     "ibm-watson": "^5.3.1"
   },
   "devDependencies": {
